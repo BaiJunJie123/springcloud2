@@ -1,0 +1,4 @@
+serverCloudApi\entitys\User.class
+serverCloudApi\service\UserClientService.class
+serverCloudApi\service\UserClientServicefallback$1.class
+serverCloudApi\service\UserClientServicefallback.class

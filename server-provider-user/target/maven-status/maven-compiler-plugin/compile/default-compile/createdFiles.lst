@@ -1,0 +1,5 @@
+com\kam\cloud\providerUserApp.class
+com\kam\cloud\controller\UserControler.class
+com\kam\cloud\dao\UserDao.class
+com\kam\cloud\service\impl\UserServiceImpl.class
+com\kam\cloud\service\Userservice.class
